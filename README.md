@@ -70,8 +70,13 @@ Acceptance tests are formal tests that verify if a system satisfies business req
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process where you guide generative artificial intelligence solutions to generate desired outputs. Prompt engineering has a series of benefits that include improved efficiency, accuracy, and personalization
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Draw a pussy cat looking in the sky.
+Clarity: The better prompt specifically asks for a cat.
+Specific Details: Describes the color of the cat and clearly provides an image of the cat.
+Concise: The more details provide a clear picture making it easier for the artist to understand exactly what is needed.
+

@@ -15,7 +15,7 @@ Software engineering is the branch of computer science that deals with design,te
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. Early Days (1940s-1960s)
  Early programmers often had to write machine code, which is a low-level language that directly controls the computer's hardware.
- 
+
 2. The Software Crisis (1960s-1980s)
 As the use of computers grew, the complexity of software systems increased.These problems became known as the "software crisis."
 
